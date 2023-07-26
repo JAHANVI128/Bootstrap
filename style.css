@@ -1,0 +1,22 @@
+
+.container-fluid{
+    background-color: blueviolet;
+    color: white;
+    padding: 50px 50px;
+}
+
+.bg1{
+    background-color: rgb(182, 127, 182);
+    color: white;
+}
+
+.bg2{
+    background-color: rgb(77, 52, 80);
+    color: white;
+}
+
+/* .container-fluid .container .nav {
+    background-color: aliceblue;
+    align-content: space-around;
+    text-decoration: none;
+} */
